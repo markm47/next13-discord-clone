@@ -1,0 +1,22 @@
+{
+  "files.exclude": {
+    "**/.next": true,
+    "**/public": true,
+    "**/node_modules": true,
+    // "**/.env": true,
+    "**/.eslintrc.json": true,
+    "**/.gitignore": true,
+    "**/components.json": true,
+    // "**/middleware.ts": true,
+    "**/next-env.d.ts": true,
+    "**/next.config.js": true,
+    "**/package-lock.json": true,
+    "**/package.json": true,
+    "**/postcss.config.js": true,
+    "**/README.md": true,
+    "**/tailwind.config.js": true,
+    "**/tailwind.config.ts": true,
+    "**/tsconfig.json": true,
+    "**/types.ts": true,
+  }
+}
